@@ -44,6 +44,6 @@ NOTA: Solo se pueden ingresar numeros enteros del 1 al 7.
     ![image](https://github.com/CamiloPJ/ConversorDeMoneda/assets/126632936/3643822f-9d28-44cf-9445-f13b67889810)
 
 ## Autor
-[<img src="https://avatars.githubusercontent.com/u/126632936?v=4" width=115><br><sub>Camilo Paternina Jiménez</sub>]([https://github.com/genesysaluralatam](https://github.com/CamiloPJ))
+[<img src="https://avatars.githubusercontent.com/u/126632936?v=4" width=115><br><sub>Camilo Paternina Jiménez</sub>](https://github.com/CamiloPJ)
 
   
